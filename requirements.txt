@@ -1,4 +1,4 @@
-anytree
+anytree==2.8.0
 appdirs
 aria2p
 asyncio
